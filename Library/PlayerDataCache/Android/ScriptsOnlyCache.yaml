@@ -81,51 +81,51 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11808}
     - Class: 114
-      Script: {instanceID: 11836}
+      Script: {instanceID: 11834}
+    - Class: 114
+      Script: {instanceID: 11850}
     - Class: 114
       Script: {instanceID: 11852}
     - Class: 114
-      Script: {instanceID: 11854}
+      Script: {instanceID: 11876}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11962}
     - Class: 114
-      Script: {instanceID: 11964}
+      Script: {instanceID: 12054}
     - Class: 114
-      Script: {instanceID: 12056}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12146}
+      Script: {instanceID: 12322}
     - Class: 114
-      Script: {instanceID: 12324}
+      Script: {instanceID: 12590}
     - Class: 114
-      Script: {instanceID: 12592}
+      Script: {instanceID: 12658}
     - Class: 114
-      Script: {instanceID: 12660}
+      Script: {instanceID: 12916}
     - Class: 114
-      Script: {instanceID: 12918}
+      Script: {instanceID: 13196}
     - Class: 114
-      Script: {instanceID: 13198}
+      Script: {instanceID: 13202}
     - Class: 114
-      Script: {instanceID: 13204}
+      Script: {instanceID: 13302}
     - Class: 114
-      Script: {instanceID: 13304}
+      Script: {instanceID: 13372}
     - Class: 114
-      Script: {instanceID: 13374}
+      Script: {instanceID: 13580}
     - Class: 114
-      Script: {instanceID: 13582}
+      Script: {instanceID: 13808}
     - Class: 114
-      Script: {instanceID: 13810}
+      Script: {instanceID: 13942}
     - Class: 114
-      Script: {instanceID: 13944}
+      Script: {instanceID: 13972}
     - Class: 114
-      Script: {instanceID: 13974}
+      Script: {instanceID: 14080}
     - Class: 114
-      Script: {instanceID: 14082}
+      Script: {instanceID: 14172}
     - Class: 114
-      Script: {instanceID: 14174}
+      Script: {instanceID: 14310}
     - Class: 114
-      Script: {instanceID: 14312}
-    - Class: 114
-      Script: {instanceID: 14428}
+      Script: {instanceID: 14426}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -870,4 +870,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: C:/UnityProject/Vizara/APK/vizaratest.apk
+  playerPath: C:/Users/admin/Documents/vizaratest/APK/vizaratest1.apk
